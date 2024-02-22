@@ -1,6 +1,8 @@
 # LH_CD_JONATAS
 **Repositório destinado ao desafio Lighthouse 1 sem 2024**
-*** Todo o desafio foi feito no jupyternotebook e é necessário ter instalado as seguintes bibliotecas: ***
+
+***Todo o desafio foi feito no jupyternotebook e é necessário ter instalado as seguintes bibliotecas:***
+
 **Numpy**
 **Pandas**
 **Matplotlib**
@@ -19,8 +21,5 @@ pip install plotly
 pip install scipy
 pip install mlxtend
 pip install nltk
-
-
-
 ```
 
