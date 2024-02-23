@@ -70,6 +70,8 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.preprocessing import PolynomialFeatures
 from sklearn.model_selection import cross_val_score
 from sklearn.ensemble import RandomForestRegressor
+from sklearn.metrics import mean_absolute_error
+
 
 
 warnings.simplefilter("ignore")
